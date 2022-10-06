@@ -1,0 +1,8 @@
+cascade累加器
+#id,(.class)
+*:default
+Window檢查元素:Control+shift+C
+span:inline tag
+div:block tag
+border-collapse:邊緣摺疊
+codepen可參考網站
