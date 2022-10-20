@@ -6,3 +6,7 @@ span:inline tag
 div:block tag
 border-collapse:邊緣摺疊
 codepen可參考網站
+relative:相對原有位置
+absolute:相對整個網站
+一列共有12個span
+hover有游標的效果
